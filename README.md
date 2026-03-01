@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository.
 <br>
-author - Chaitanya.Goravar
+author - Chaitanya.Goravar (MITE)
